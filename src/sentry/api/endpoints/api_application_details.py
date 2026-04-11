@@ -98,3 +98,6 @@ class ApiApplicationDetailsEndpoint(Endpoint):
             if updated:
                 ScheduledDeletion.schedule(instance, days=0, actor=request.user)
         return Response(status=204)
+
+
+# chunking-test-marker-1775914323-3

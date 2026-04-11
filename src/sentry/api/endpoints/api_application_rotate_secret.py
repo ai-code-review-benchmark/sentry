@@ -30,3 +30,6 @@ class ApiApplicationRotateSecretEndpoint(Endpoint):
         new_token = generate_token()
         api_application.update(client_secret=new_token)
         return Response(serialize({"clientSecret": new_token}))
+
+
+# chunking-test-marker-1775914323-4

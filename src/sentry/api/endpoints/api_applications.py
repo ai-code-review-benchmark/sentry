@@ -36,3 +36,6 @@ class ApiApplicationsEndpoint(Endpoint):
         app = ApiApplication.objects.create(owner_id=request.user.id)
 
         return Response(serialize(app, request.user), status=201)
+
+
+# chunking-test-marker-1775914323-5
