@@ -230,3 +230,427 @@ class AcceptOrganizationInvite(Endpoint):
 
 
 # chunking-test-v3-1775914457-0
+
+
+# chunking-test-big-1775914536-0
+
+def _generated_function_1775914536_0_0(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 0 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_1(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 1 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_2(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 2 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_3(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 3 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_4(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 4 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_5(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 5 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_6(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 6 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_7(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 7 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_8(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 8 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_9(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 9 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_10(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 10 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_11(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 11 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_12(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 12 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_13(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 13 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_14(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 14 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_15(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 15 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_16(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 16 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_17(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 17 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_18(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 18 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_19(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 19 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_20(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 20 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_21(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 21 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_22(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 22 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_23(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 23 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_24(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 24 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_25(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 25 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_26(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 26 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_27(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 27 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_28(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 28 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_29(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 29 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_30(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 30 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_31(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 31 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_32(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 32 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_33(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 33 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_34(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 34 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_35(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 35 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_36(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 36 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_37(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 37 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_38(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 38 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_39(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 39 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_40(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 40 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_41(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 41 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_42(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 42 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_43(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 43 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_44(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 44 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_45(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 45 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_46(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 46 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_47(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 47 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_48(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 48 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_49(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 49 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_50(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 50 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_51(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 51 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_52(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 52 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_53(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 53 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_54(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 54 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_55(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 55 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_56(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 56 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_57(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 57 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_58(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 58 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
+def _generated_function_1775914536_0_59(arg1, arg2, arg3):
+    """Auto-generated for chunking test."""
+    result = arg1 * 59 + arg2 - arg3
+    if result > 0:
+        return result * 2
+    return None
+
