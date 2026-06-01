@@ -331,3 +331,979 @@ def _schedule_invalidate_project_configs(organization: Organization, project_ids
                 trigger="dynamic_sampling:custom_rule_upsert",
                 project_id=project_id,
             )
+
+
+# chunking-test-giant-1775917279-37
+
+def _gen_1775917279_37_0(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 0 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_1(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 1 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_2(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 2 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_3(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 3 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_4(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 4 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_5(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 5 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_6(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 6 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_7(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 7 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_8(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 8 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_9(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 9 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_10(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 10 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_11(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 11 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_12(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 12 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_13(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 13 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_14(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 14 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_15(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 15 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_16(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 16 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_17(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 17 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_18(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 18 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_19(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 19 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_20(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 20 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_21(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 21 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_22(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 22 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_23(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 23 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_24(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 24 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_25(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 25 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_26(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 26 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_27(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 27 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_28(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 28 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_29(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 29 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_30(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 30 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_31(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 31 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_32(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 32 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_33(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 33 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_34(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 34 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_35(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 35 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_36(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 36 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_37(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 37 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_38(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 38 + y - z
+    return result if result > 0 else None
+
+def _gen_1775917279_37_39(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 39 + y - z
+    return result if result > 0 else None
+
+
+
+# chunking-test-giant-1775918140-37
+
+def _gen_1775918140_37_0(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 0 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_1(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 1 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_2(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 2 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_3(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 3 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_4(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 4 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_5(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 5 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_6(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 6 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_7(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 7 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_8(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 8 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_9(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 9 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_10(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 10 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_11(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 11 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_12(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 12 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_13(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 13 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_14(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 14 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_15(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 15 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_16(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 16 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_17(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 17 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_18(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 18 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_19(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 19 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_20(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 20 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_21(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 21 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_22(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 22 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_23(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 23 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_24(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 24 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_25(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 25 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_26(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 26 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_27(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 27 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_28(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 28 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_29(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 29 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_30(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 30 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_31(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 31 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_32(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 32 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_33(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 33 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_34(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 34 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_35(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 35 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_36(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 36 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_37(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 37 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_38(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 38 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918140_37_39(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 39 + y - z
+    return result if result > 0 else None
+
+
+
+# chunking-test-giant-1775918665-37
+
+def _gen_1775918665_37_0(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 0 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_1(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 1 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_2(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 2 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_3(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 3 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_4(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 4 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_5(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 5 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_6(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 6 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_7(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 7 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_8(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 8 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_9(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 9 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_10(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 10 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_11(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 11 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_12(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 12 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_13(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 13 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_14(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 14 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_15(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 15 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_16(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 16 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_17(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 17 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_18(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 18 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_19(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 19 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_20(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 20 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_21(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 21 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_22(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 22 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_23(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 23 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_24(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 24 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_25(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 25 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_26(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 26 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_27(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 27 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_28(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 28 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_29(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 29 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_30(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 30 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_31(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 31 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_32(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 32 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_33(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 33 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_34(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 34 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_35(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 35 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_36(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 36 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_37(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 37 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_38(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 38 + y - z
+    return result if result > 0 else None
+
+def _gen_1775918665_37_39(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 39 + y - z
+    return result if result > 0 else None
+
+
+
+# chunking-test-giant-1775919189-37
+
+def _gen_1775919189_37_0(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 0 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_1(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 1 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_2(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 2 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_3(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 3 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_4(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 4 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_5(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 5 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_6(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 6 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_7(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 7 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_8(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 8 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_9(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 9 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_10(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 10 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_11(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 11 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_12(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 12 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_13(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 13 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_14(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 14 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_15(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 15 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_16(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 16 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_17(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 17 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_18(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 18 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_19(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 19 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_20(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 20 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_21(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 21 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_22(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 22 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_23(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 23 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_24(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 24 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_25(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 25 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_26(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 26 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_27(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 27 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_28(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 28 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_29(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 29 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_30(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 30 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_31(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 31 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_32(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 32 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_33(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 33 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_34(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 34 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_35(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 35 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_36(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 36 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_37(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 37 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_38(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 38 + y - z
+    return result if result > 0 else None
+
+def _gen_1775919189_37_39(x, y, z):
+    """Auto-generated."""
+    if x is None: return None
+    result = x * 39 + y - z
+    return result if result > 0 else None
+
